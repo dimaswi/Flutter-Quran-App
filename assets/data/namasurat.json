@@ -1,0 +1,306 @@
+[
+    {
+      "number": 1,
+      "name": "سورة الفاتحة",
+      "transliteration_en": "Al-Faatiha",
+      "translation_en": "The Opening",
+      "total_verses": 7,
+      "revelation_type": "Meccan"
+    },
+    {
+      "number": 78,
+      "name": "سورة النبإ",
+      "transliteration_en": "An-Naba",
+      "translation_en": "The Announcement",
+      "total_verses": 40,
+      "revelation_type": "Meccan"
+    },
+    {
+      "number": 79,
+      "name": "سورة النازعات",
+      "transliteration_en": "An-Naazi'aat",
+      "translation_en": "Those who drag forth",
+      "total_verses": 46,
+      "revelation_type": "Meccan"
+    },
+    {
+      "number": 80,
+      "name": "سورة عبس",
+      "transliteration_en": "Abasa",
+      "translation_en": "He frowned",
+      "total_verses": 42,
+      "revelation_type": "Meccan"
+    },
+    {
+      "number": 81,
+      "name": "سورة التكوير",
+      "transliteration_en": "At-Takwir",
+      "translation_en": "The Overthrowing",
+      "total_verses": 29,
+      "revelation_type": "Meccan"
+    },
+    {
+      "number": 82,
+      "name": "سورة الإنفطار",
+      "transliteration_en": "Al-Infitaar",
+      "translation_en": "The Cleaving",
+      "total_verses": 19,
+      "revelation_type": "Meccan"
+    },
+    {
+      "number": 83,
+      "name": "سورة المطففين",
+      "transliteration_en": "Al-Mutaffifin",
+      "translation_en": "Defrauding",
+      "total_verses": 36,
+      "revelation_type": "Meccan"
+    },
+    {
+      "number": 84,
+      "name": "سورة الإنشقاق",
+      "transliteration_en": "Al-Inshiqaaq",
+      "translation_en": "The Splitting Open",
+      "total_verses": 25,
+      "revelation_type": "Meccan"
+    },
+    {
+      "number": 85,
+      "name": "سورة البروج",
+      "transliteration_en": "Al-Burooj",
+      "translation_en": "The Constellations",
+      "total_verses": 22,
+      "revelation_type": "Meccan"
+    },
+    {
+      "number": 86,
+      "name": "سورة الطارق",
+      "transliteration_en": "At-Taariq",
+      "translation_en": "The Morning Star",
+      "total_verses": 17,
+      "revelation_type": "Meccan"
+    },
+    {
+      "number": 87,
+      "name": "سورة الأعلى",
+      "transliteration_en": "Al-A'laa",
+      "translation_en": "The Most High",
+      "total_verses": 19,
+      "revelation_type": "Meccan"
+    },
+    {
+      "number": 88,
+      "name": "سورة الغاشية",
+      "transliteration_en": "Al-Ghaashiya",
+      "translation_en": "The Overwhelming",
+      "total_verses": 26,
+      "revelation_type": "Meccan"
+    },
+    {
+      "number": 89,
+      "name": "سورة الفجر",
+      "transliteration_en": "Al-Fajr",
+      "translation_en": "The Dawn",
+      "total_verses": 30,
+      "revelation_type": "Meccan"
+    },
+    {
+      "number": 90,
+      "name": "سورة البلد",
+      "transliteration_en": "Al-Balad",
+      "translation_en": "The City",
+      "total_verses": 20,
+      "revelation_type": "Meccan"
+    },
+    {
+      "number": 91,
+      "name": "سورة الشمس",
+      "transliteration_en": "Ash-Shams",
+      "translation_en": "The Sun",
+      "total_verses": 15,
+      "revelation_type": "Meccan"
+    },
+    {
+      "number": 92,
+      "name": "سورة الليل",
+      "transliteration_en": "Al-Lail",
+      "translation_en": "The Night",
+      "total_verses": 21,
+      "revelation_type": "Meccan"
+    },
+    {
+      "number": 93,
+      "name": "سورة الضحى",
+      "transliteration_en": "Ad-Dhuhaa",
+      "translation_en": "The Morning Hours",
+      "total_verses": 11,
+      "revelation_type": "Meccan"
+    },
+    {
+      "number": 94,
+      "name": "سورة الشرح",
+      "transliteration_en": "Ash-Sharh",
+      "translation_en": "The Consolation",
+      "total_verses": 8,
+      "revelation_type": "Meccan"
+    },
+    {
+      "number": 95,
+      "name": "سورة التين",
+      "transliteration_en": "At-Tin",
+      "translation_en": "The Fig",
+      "total_verses": 8,
+      "revelation_type": "Meccan"
+    },
+    {
+      "number": 96,
+      "name": "سورة العلق",
+      "transliteration_en": "Al-Alaq",
+      "translation_en": "The Clot",
+      "total_verses": 19,
+      "revelation_type": "Meccan"
+    },
+    {
+      "number": 97,
+      "name": "سورة القدر",
+      "transliteration_en": "Al-Qadr",
+      "translation_en": "The Power, Fate",
+      "total_verses": 5,
+      "revelation_type": "Meccan"
+    },
+    {
+      "number": 98,
+      "name": "سورة البينة",
+      "transliteration_en": "Al-Bayyina",
+      "translation_en": "The Evidence",
+      "total_verses": 8,
+      "revelation_type": "Medinan"
+    },
+    {
+      "number": 99,
+      "name": "سورة الزلزلة",
+      "transliteration_en": "Az-Zalzala",
+      "translation_en": "The Earthquake",
+      "total_verses": 8,
+      "revelation_type": "Medinan"
+    },
+    {
+      "number": 100,
+      "name": "سورة العاديات",
+      "transliteration_en": "Al-Aadiyaat",
+      "translation_en": "The Chargers",
+      "total_verses": 11,
+      "revelation_type": "Meccan"
+    },
+    {
+      "number": 101,
+      "name": "سورة القارعة",
+      "transliteration_en": "Al-Qaari'a",
+      "translation_en": "The Calamity",
+      "total_verses": 11,
+      "revelation_type": "Meccan"
+    },
+    {
+      "number": 102,
+      "name": "سورة التكاثر",
+      "transliteration_en": "At-Takaathur",
+      "translation_en": "Competition",
+      "total_verses": 8,
+      "revelation_type": "Meccan"
+    },
+    {
+      "number": 103,
+      "name": "سورة العصر",
+      "transliteration_en": "Al-Asr",
+      "translation_en": "The Declining Day, Epoch",
+      "total_verses": 3,
+      "revelation_type": "Meccan"
+    },
+    {
+      "number": 104,
+      "name": "سورة الهمزة",
+      "transliteration_en": "Al-Humaza",
+      "translation_en": "The Traducer",
+      "total_verses": 9,
+      "revelation_type": "Meccan"
+    },
+    {
+      "number": 105,
+      "name": "سورة الفيل",
+      "transliteration_en": "Al-Fil",
+      "translation_en": "The Elephant",
+      "total_verses": 5,
+      "revelation_type": "Meccan"
+    },
+    {
+      "number": 106,
+      "name": "سورة قريش",
+      "transliteration_en": "Quraish",
+      "translation_en": "Quraysh",
+      "total_verses": 4,
+      "revelation_type": "Meccan"
+    },
+    {
+      "number": 107,
+      "name": "سورة الماعون",
+      "transliteration_en": "Al-Maa'un",
+      "translation_en": "Almsgiving",
+      "total_verses": 7,
+      "revelation_type": "Meccan"
+    },
+    {
+      "number": 108,
+      "name": "سورة الكوثر",
+      "transliteration_en": "Al-Kawthar",
+      "translation_en": "Abundance",
+      "total_verses": 3,
+      "revelation_type": "Meccan"
+    },
+    {
+      "number": 109,
+      "name": "سورة الكافرون",
+      "transliteration_en": "Al-Kaafiroon",
+      "translation_en": "The Disbelievers",
+      "total_verses": 6,
+      "revelation_type": "Meccan"
+    },
+    {
+      "number": 110,
+      "name": "سورة النصر",
+      "transliteration_en": "An-Nasr",
+      "translation_en": "Divine Support",
+      "total_verses": 3,
+      "revelation_type": "Medinan"
+    },
+    {
+      "number": 111,
+      "name": "سورة المسد",
+      "transliteration_en": "Al-Masad",
+      "translation_en": "The Palm Fibre",
+      "total_verses": 5,
+      "revelation_type": "Meccan"
+    },
+    {
+      "number": 112,
+      "name": "سورة الإخلاص",
+      "transliteration_en": "Al-Ikhlaas",
+      "translation_en": "Sincerity",
+      "total_verses": 4,
+      "revelation_type": "Meccan"
+    },
+    {
+      "number": 113,
+      "name": "سورة الفلق",
+      "transliteration_en": "Al-Falaq",
+      "translation_en": "The Dawn",
+      "total_verses": 5,
+      "revelation_type": "Meccan"
+    },
+    {
+      "number": 114,
+      "name": "سورة الناس",
+      "transliteration_en": "An-Naas",
+      "translation_en": "Mankind",
+      "total_verses": 6,
+      "revelation_type": "Meccan"
+    }
+  ]
